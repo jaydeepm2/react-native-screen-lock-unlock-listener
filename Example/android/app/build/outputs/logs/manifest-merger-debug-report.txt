@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-phone-locked-action] /usr/local/var/www/react-native-phone-locked-action/Example/node_modules/react-native-phone-locked-action/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/3089ed8ce886be847b7d4d22cc1344af/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/968c6a30b994950092c6f1f305b87618/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/67303c45dbbf521037991748bb3ecfed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/92309686420b6cfcf2e739012616eec7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/459842304e314c31389f1d254250519e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/8c563720719d00f2f74b2c328e53317c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/792c15eae418aae05907d2aa295b51a8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/595ffb673baf525ad36f41f4c31d4db6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/9d9cc5aa23070404ec4bd9b9b8d055b5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/5b654693451f4621056203045eba0e96/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/6e469d14fc393353f8bd38b759c164e1/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/1ec1ef303374e7a1af092d8e4b2a82cd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/e55c337b30fdc4660c733283a4fc5061/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/cb4c60f74456f7c25e6c83e944717709/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/affeef9abbee143cefeffb07bcb1c8f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/ad7c7a840e7be64851b84a6e40834fa2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/80571e40b5baa63cf09d67305bfffe37/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/f08d3bf75c3067e68b692824cfa32349/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/e9b258c7acd704a8ee54a630c7260bff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/4a9345b4e52b9799b66671e437bb7145/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/f315387d412d68af3dfa1b4fb4b8d974/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/e6bdff11e7e3d560a9ea18298fc0738f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/ab1134abe597fb74b0582b3e48e61239/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/334fc73328e38f56e0ab4554d002d4de/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/008a3a55b40334033086857fe3f58814/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/1a4e9774a68409089901e7b1e06caa8c/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/cca997b173bf5cef680009a2c9e332f2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/6a58fc99583acff188bfd26b4ca047fc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/097f85224c625d8245be88c049c31318/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/8aa4de420b401354f4474d846c3d04bf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/a1f36917632b11a2e7e3b394417151b7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/d947cdef65fa3dfc0faffeb1ae036705/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/909c9cf6474abade38fbc5129adf5fc3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/17ec602917ea63d3da4f569e0f6cd417/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/222406669320495dddea57590cde51aa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/d8f88ae6773f16a8dd24acea129102e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/6acaa76addb80b36736dc8fe8bed816d/AndroidManifest.xml:2:1-9:12
+INJECTED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:2:3-35
+		INJECTED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:2:3-35
+		INJECTED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/3089ed8ce886be847b7d4d22cc1344af/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/3089ed8ce886be847b7d4d22cc1344af/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/6e469d14fc393353f8bd38b759c164e1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/6e469d14fc393353f8bd38b759c164e1/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/008a3a55b40334033086857fe3f58814/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/008a3a55b40334033086857fe3f58814/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/1a4e9774a68409089901e7b1e06caa8c/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/1a4e9774a68409089901e7b1e06caa8c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/008a3a55b40334033086857fe3f58814/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.examplelokedaction.MainActivity
+ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml
+INJECTED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-phone-locked-action] /usr/local/var/www/react-native-phone-locked-action/Example/node_modules/react-native-phone-locked-action/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-phone-locked-action] /usr/local/var/www/react-native-phone-locked-action/Example/node_modules/react-native-phone-locked-action/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/3089ed8ce886be847b7d4d22cc1344af/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/3089ed8ce886be847b7d4d22cc1344af/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/968c6a30b994950092c6f1f305b87618/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/968c6a30b994950092c6f1f305b87618/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/67303c45dbbf521037991748bb3ecfed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/67303c45dbbf521037991748bb3ecfed/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/92309686420b6cfcf2e739012616eec7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/92309686420b6cfcf2e739012616eec7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/459842304e314c31389f1d254250519e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/459842304e314c31389f1d254250519e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/8c563720719d00f2f74b2c328e53317c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/8c563720719d00f2f74b2c328e53317c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/792c15eae418aae05907d2aa295b51a8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/792c15eae418aae05907d2aa295b51a8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/595ffb673baf525ad36f41f4c31d4db6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/595ffb673baf525ad36f41f4c31d4db6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/9d9cc5aa23070404ec4bd9b9b8d055b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/9d9cc5aa23070404ec4bd9b9b8d055b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/5b654693451f4621056203045eba0e96/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/5b654693451f4621056203045eba0e96/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/6e469d14fc393353f8bd38b759c164e1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/6e469d14fc393353f8bd38b759c164e1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/1ec1ef303374e7a1af092d8e4b2a82cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/1ec1ef303374e7a1af092d8e4b2a82cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/e55c337b30fdc4660c733283a4fc5061/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/e55c337b30fdc4660c733283a4fc5061/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/cb4c60f74456f7c25e6c83e944717709/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/cb4c60f74456f7c25e6c83e944717709/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/affeef9abbee143cefeffb07bcb1c8f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/affeef9abbee143cefeffb07bcb1c8f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/ad7c7a840e7be64851b84a6e40834fa2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/ad7c7a840e7be64851b84a6e40834fa2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/80571e40b5baa63cf09d67305bfffe37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/80571e40b5baa63cf09d67305bfffe37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/f08d3bf75c3067e68b692824cfa32349/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/f08d3bf75c3067e68b692824cfa32349/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/e9b258c7acd704a8ee54a630c7260bff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/e9b258c7acd704a8ee54a630c7260bff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/4a9345b4e52b9799b66671e437bb7145/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/4a9345b4e52b9799b66671e437bb7145/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/f315387d412d68af3dfa1b4fb4b8d974/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/f315387d412d68af3dfa1b4fb4b8d974/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/e6bdff11e7e3d560a9ea18298fc0738f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/e6bdff11e7e3d560a9ea18298fc0738f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/ab1134abe597fb74b0582b3e48e61239/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/ab1134abe597fb74b0582b3e48e61239/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/334fc73328e38f56e0ab4554d002d4de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/334fc73328e38f56e0ab4554d002d4de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/008a3a55b40334033086857fe3f58814/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/008a3a55b40334033086857fe3f58814/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/1a4e9774a68409089901e7b1e06caa8c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/1a4e9774a68409089901e7b1e06caa8c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/cca997b173bf5cef680009a2c9e332f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/cca997b173bf5cef680009a2c9e332f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/6a58fc99583acff188bfd26b4ca047fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/6a58fc99583acff188bfd26b4ca047fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/097f85224c625d8245be88c049c31318/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/097f85224c625d8245be88c049c31318/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/8aa4de420b401354f4474d846c3d04bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/8aa4de420b401354f4474d846c3d04bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/a1f36917632b11a2e7e3b394417151b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/a1f36917632b11a2e7e3b394417151b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/d947cdef65fa3dfc0faffeb1ae036705/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/d947cdef65fa3dfc0faffeb1ae036705/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/909c9cf6474abade38fbc5129adf5fc3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/909c9cf6474abade38fbc5129adf5fc3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/17ec602917ea63d3da4f569e0f6cd417/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/17ec602917ea63d3da4f569e0f6cd417/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/222406669320495dddea57590cde51aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/222406669320495dddea57590cde51aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/d8f88ae6773f16a8dd24acea129102e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/d8f88ae6773f16a8dd24acea129102e2/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/6acaa76addb80b36736dc8fe8bed816d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/dmitriykupriyanov/.gradle/caches/transforms-2/files-2.1/6acaa76addb80b36736dc8fe8bed816d/AndroidManifest.xml:5:5-7:41
+INJECTED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/debug/AndroidManifest.xml
+INJECTED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /usr/local/var/www/react-native-phone-locked-action/Example/android/app/src/debug/AndroidManifest.xml:5:22-75
