@@ -1,0 +1,4 @@
+#Thu Dec 26 17:21:50 EET 2019
+base.0=/usr/local/var/www/react-native-phone-locked-action/Example/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
